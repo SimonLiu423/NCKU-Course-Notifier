@@ -1,4 +1,4 @@
-# NCKUCourseNotifierDC
+# NCKU Course Notifier
 
 `main.py`: All commands for bot
 
